@@ -129,7 +129,7 @@ Use a separate terminal for the simulator, since it runs continuously.
 |:--|:--|:--|
 | **Nirlep** | 🏭 Sensor simulation and data generation | `sensor_simulator_2.py` |
 | **Abhijith** | 📊 Trend and anomaly analytics | `anomaly_analytics_2.py`, `trend_analysis_2.py` |
-| **Rajneesh** | 🖥️ Maintenance monitoring and dashboard | `maintenance_monitor_2.py`, `dashboard_2.py` |
+| **Rajaneesh** | 🖥️ Maintenance monitoring and dashboard | `maintenance_monitor_2.py`, `dashboard_2.py` |
 
 <div align="center">
 
